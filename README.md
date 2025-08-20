@@ -1,4 +1,4 @@
-# CareerBuilderz
+# CareerSync
 
 ## Getting Started
 
